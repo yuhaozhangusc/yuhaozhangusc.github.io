@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of Southern California, 2024-????
+* Ph.D in Computational Biology and Bioinformatics, University of Southern California, 2024-???? (hope to graduate)
 * B.S. & B.Eng. in Bioinformatics & Computer Science, Huazhong University of Science and Technology, 2020-2024
 
 Work experience
