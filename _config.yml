@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuhao Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Ph.D. student in USC CBB"
   location         : "Los Angeles, California, USA"
   employer         : "University of Southern California"
   uri              : # URL
-  email            : "yuhaozhanghust[at]gmail.com" 
+  email            : "yuhaozhanghust@gmail.com" 
 
   # Academic websites
   academia         : # URL
